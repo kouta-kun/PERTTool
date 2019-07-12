@@ -1,0 +1,11 @@
+C:\Users\darkfm\source\repos\PERTTool\PERTTool\bin\Debug\PERTTool.exe.config
+C:\Users\darkfm\source\repos\PERTTool\PERTTool\bin\Debug\PERTTool.exe
+C:\Users\darkfm\source\repos\PERTTool\PERTTool\bin\Debug\PERTTool.pdb
+C:\Users\darkfm\source\repos\PERTTool\PERTTool\obj\Debug\PERTTool.csprojAssemblyReference.cache
+C:\Users\darkfm\source\repos\PERTTool\PERTTool\obj\Debug\PERTTool.GraphTool.resources
+C:\Users\darkfm\source\repos\PERTTool\PERTTool\obj\Debug\PERTTool.Properties.Resources.resources
+C:\Users\darkfm\source\repos\PERTTool\PERTTool\obj\Debug\PERTTool.csproj.GenerateResource.cache
+C:\Users\darkfm\source\repos\PERTTool\PERTTool\obj\Debug\PERTTool.csproj.CoreCompileInputs.cache
+C:\Users\darkfm\source\repos\PERTTool\PERTTool\obj\Debug\PERTTool.exe
+C:\Users\darkfm\source\repos\PERTTool\PERTTool\obj\Debug\PERTTool.pdb
+C:\Users\darkfm\source\repos\PERTTool\PERTTool\obj\Debug\PERTTool.Form1.resources
